@@ -1,0 +1,3 @@
+- 👋 Hey! ik ben OfficieelMika
+- 👀 Ik ben geïnteresseerd in: Muziek, Programmeren
+- 🌱 Ik leer momenteel: PHP, Python, Javascript ...
